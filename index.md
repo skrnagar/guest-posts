@@ -4,34 +4,30 @@ You can use the [editor on GitHub](https://github.com/skrnagar/guest-posts/edit/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+== Description ==
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+As the name explains, <strong>Guest Posts Submission Lite</strong> is a free <strong>WordPress Plugin</strong> which facilitates with the functionality to submit Posts from frontend with or without logging in with various configurable options.
 
-```markdown
-Syntax highlighted code block
+You can configure available forms with <strong>drag and drop form builder, add unlimited custom fields</strong> with various field type supports.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+= See full features list below: =
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/skrnagar/guest-posts/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* 2 Forms with Drag and Drop form Builder
+* Unlimited Custom Fields with various Field Types Support
+* Custom Fields Frontend Display Support
+* Custom Fields Display in Backend too
+* 5 Beautiful Pre Designed templates
+* Guest Post Support
+* Secure Form Submission with Google Captcha Integrated
+* Admin and User Notification Configurations
+* Frontend Form Preview
+* Redirection option available after Successful submission
+* Configure Submited Post Status
+* Configure Post Author
+* Configure Post Format
+* Character Limit Configuration
+* Enable/disable Form Components
+* Ajax Form Submission
+* Developer Documentation Available
+* All device friendly and browser Compatibility
